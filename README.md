@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
  I am learning about CSS, HTML, Javascript, Git, and Version Control. 
 
 ## My Aspirations
+I aspire to work in the tech space and become a software engineer or a web dev
 ### Web Development
 In the world of web development, I'm eager to explore the endless possibilities of building responsive and user-friendly websites. I would like to craft beautiful and functional user interfaces.
 

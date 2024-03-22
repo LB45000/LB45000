@@ -35,21 +35,23 @@ Here's a collection of projects that I've worked on:
 
 
 
-### Project 3: [Project Name]
+### Project 3: Meme Generator App
 
-![Project Image](URL_to_project_image)
+![memegeneratorapiapp](https://github.com/LB45000/LB45000/assets/144392042/6571595f-f684-44dc-b296-441bbd8a1d06)
 
-- **Technologies Used:** [Tech 1, Tech 2, ...]
-- **Project Description:** [Brief Description of the Project]
-- **Purpose:** [Purpose of the Project]
 
-### Project 4: [Project Name]
+- **Technologies Used:** React, Javascript, HTML, CSS, and an API
+- **Project Description:** This app generates new memes from a meme generator api when the user clicks a button. It also allows users to mark their favorite memes and write text on the memes.
+- **Purpose:** To demonstrate my proficency in working with APIS
 
-![Project Image](URL_to_project_image)
+### Project 4: Class Room Average
 
-- **Technologies Used:** [Tech 1, Tech 2, ...]
-- **Project Description:** [Brief Description of the Project]
-- **Purpose:** [Purpose of the Project]
+![classroom average](https://github.com/LB45000/LB45000/assets/144392042/6d9ddd9c-b4a9-4a08-8adc-978d2325c217)
+
+
+- **Technologies Used:** React, Javascript, HTML, and CSS
+- **Project Description:** This application calculates the classroom grade avaerage of students. It allows users to add and delete students and student info such as grades. It also has a button and functionality that allows users to recalculate the classroom average if new students are added or deleted.
+- **Purpose:** To allow teachers to calculate their classroom's average.
 
 
 

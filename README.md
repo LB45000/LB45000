@@ -23,7 +23,7 @@ Here's a collection of projects that I've worked on:
 - **Technologies Used:** React, Javascript, HTML, and CSS
 - **Project Description:** It is a web page that has a router component in react that has a home page, a contact page, a projects page, and an about page.
 - **Purpose:** To showcase my work
--**Project Link:** https://github.com/LB45000/SPA-Portfolio-Final
+- **Project Link:** https://github.com/LB45000/SPA-Portfolio-Final
 ### Project 2: Task Tracker
 
 
@@ -32,7 +32,7 @@ Here's a collection of projects that I've worked on:
 - **Technologies Used:** React, Javascript, HTML, and CSS
 - **Project Description:** It is a task tracker app that allows you to add tasks, mark them complete or incomplete, delete them, and it also displays the completed and incomplete tasks.
 - **Purpose:** To allow users to track their tasks and better organize their to do list.
--**Project Link:** https://github.com/LB45000/TaskTracker
+- **Project Link:** https://github.com/LB45000/TaskTracker
 
 
 ### Project 3: Meme Generator App
@@ -43,7 +43,7 @@ Here's a collection of projects that I've worked on:
 - **Technologies Used:** React, Javascript, HTML, CSS, and an API
 - **Project Description:** This app generates new memes from a meme generator api when the user clicks a button. It also allows users to mark their favorite memes and write text on the memes.
 - **Purpose:** To demonstrate my proficency in working with APIS
-- **Project Link:**https://github.com/LB45000/Meme-Generator
+- **Project Link:** https://github.com/LB45000/Meme-Generator
 
 ### Project 4: Class Room Average
 
@@ -53,7 +53,7 @@ Here's a collection of projects that I've worked on:
 - **Technologies Used:** React, Javascript, HTML, and CSS
 - **Project Description:** This application calculates the classroom grade avaerage of students. It allows users to add and delete students and student info such as grades. It also has a button and functionality that allows users to recalculate the classroom average if new students are added or deleted.
 - **Purpose:** To allow teachers to calculate their classroom's average.
-- **Project Link:**https://github.com/LB45000/ClassRoomAverageReact
+- **Project Link:** https://github.com/LB45000/ClassRoomAverageReact
 
 
 

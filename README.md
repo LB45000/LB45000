@@ -7,7 +7,7 @@ Hello, my name is Luis Bravo, and I am a student based in Los Angeles. I special
 - **Name:** Luis Bravo
 - **Title:** Student and webdev fellow at the Knowledge House
 - **Location:** Los Angeles, CA
-- **Specialty Skills:** REACTJS, Javascript, HTML, CSS, Nodejs, ExpressJS, Python Programming, and machine learning.
+- **Specialty Skills:** REACTJS, Javascript, HTML, CSS, Nodejs, ExpressJS, APIS, Databases, Python Programming, and machine learning.
 - **Transferable Skills:** attention to detail, creativity, and collaboration to the table
 - **Mission Statement/Values:**  My mission is to leverage technology to make a postive impact on society.
 

@@ -56,8 +56,8 @@ Here's a collection of projects that I've worked on:
 - **Project Link:** https://github.com/LB45000/ClassRoomAverageReact
 
 
-**Unity Game**
-**I also created a video game using C# and Unity:** https://play.unity.com/en/games/83ed5858-0c75-4247-acbc-76b601e082a2/endless-runner
+
+**I also created a video game using C# and Unity, check it out here:** https://play.unity.com/en/games/83ed5858-0c75-4247-acbc-76b601e082a2/endless-runner
 
 
 
